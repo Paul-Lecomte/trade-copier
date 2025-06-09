@@ -12,7 +12,7 @@ A real-time trade copier for MetaTrader 5 (MT5) accounts. This web-based applica
 
 ## Tech Stack
 
-- **Frontend:** Next.js (React)
+- **Frontend:** Next.js (React) 
 - **Backend:** Node.js with WebSocket (for real-time communication)
 - **MetaTrader 5 Integration:** MQL5 (for connecting MT5 with the backend)
 - **Communication Protocol:** WebSocket (for low-latency communication)
